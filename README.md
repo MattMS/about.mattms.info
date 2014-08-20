@@ -1,4 +1,3 @@
-mattms.info
-===========
+# About MattMS
 
-Site for mattms.info
+Learn stuff about Matt.
