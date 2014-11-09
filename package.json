@@ -1,0 +1,30 @@
+{
+  "name": "about.mattms.info",
+  "version": "1.0.0",
+  "description": "About Matt McKellar-Spence",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MattMS/about.mattms.info.git"
+  },
+  "keywords": [
+    "about"
+  ],
+  "author": "Matt McKellar-Spence",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MattMS/about.mattms.info/issues"
+  },
+  "homepage": "http://about.mattms.info",
+  "devDependencies": {
+    "coffee-script": "^1.8.0",
+    "gulp": "^3.8.10",
+    "gulp-jade": "^0.9.0",
+    "jade": "^1.7.0",
+    "marked": "^0.3.2",
+    "stylus": "^0.49.3"
+  }
+}
