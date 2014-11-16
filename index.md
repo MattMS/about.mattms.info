@@ -28,5 +28,8 @@ since 2010.
 
 ## But also
 
+Recognised as a [bachelor](http://en.wikipedia.org/wiki/Bachelor_of_Computing)
+by [UTas](http://www.utas.edu.au/).
+
 Learned to code on a
 [TRS-80 Color Computer](http://en.wikipedia.org/wiki/TRS-80_Color_Computer).
