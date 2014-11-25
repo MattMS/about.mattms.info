@@ -49,4 +49,5 @@ Kept happy in the browser with [Jade](http://jade-lang.com/) and
 Trying to use [Redis](http://redis.io/) and
 [CouchDB](https://couchdb.apache.org/) for all my storage needs.
 
-[Blender](https://www.blender.org/) for making pretty stuff.
+Always interested in [Blender](https://www.blender.org/) scripting and
+trying to make pretty stuff.
