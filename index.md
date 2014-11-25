@@ -28,8 +28,25 @@ since 2010.
 
 ## But also
 
-Recognised as a [bachelor](http://en.wikipedia.org/wiki/Bachelor_of_Computing)
+Recognised as a [bachelor](https://en.wikipedia.org/wiki/Bachelor_of_Computing)
 by [UTas](http://www.utas.edu.au/).
 
 Learned to code on a
-[TRS-80 Color Computer](http://en.wikipedia.org/wiki/TRS-80_Color_Computer).
+[TRS-80 Color Computer](https://en.wikipedia.org/wiki/TRS-80_Color_Computer)
+but forgot to save my programs to cassette.
+
+
+## I have been
+
+Thinking in [Python](https://www.python.org/) since 2007.
+
+Addicted to [CoffeeScript](http://coffeescript.org/) for
+[Node.js](http://nodejs.org/) and browser scripting.
+
+Kept happy in the browser with [Jade](http://jade-lang.com/) and
+[Stylus](https://learnboost.github.io/stylus/).
+
+Trying to use [Redis](http://redis.io/) and
+[CouchDB](https://couchdb.apache.org/) for all my storage needs.
+
+[Blender](https://www.blender.org/) for making pretty stuff.
