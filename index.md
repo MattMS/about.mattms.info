@@ -40,6 +40,10 @@ but forgot to save my programs to cassette.
 
 Thinking in [Python](https://www.python.org/) since 2007.
 
+Using [Django](https://www.djangoproject.com/) and
+[Flask](http://flask.pocoo.org/) with
+[SQLAlchemy](http://www.sqlalchemy.org/) for database-driven sites.
+
 Addicted to [CoffeeScript](http://coffeescript.org/) for
 [Node.js](http://nodejs.org/) and browser scripting.
 
@@ -51,5 +55,5 @@ Trying to use [Redis](http://redis.io/) and
 But I know my way around [PostgreSQL](http://www.postgresql.org/) and
 those other popular SQL databases.
 
-Always interested in [Blender](https://www.blender.org/) scripting and
+Interested in [Blender](https://www.blender.org/) for scripting and
 trying to make pretty stuff.
