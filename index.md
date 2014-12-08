@@ -45,9 +45,8 @@ Using [Django](https://www.djangoproject.com/) and
 [SQLAlchemy](http://www.sqlalchemy.org/) for database-driven sites.
 
 Addicted to [CoffeeScript](http://coffeescript.org/) for
-[Node.js](http://nodejs.org/) and browser scripting.
-
-Kept happy in the browser with [Jade](http://jade-lang.com/) and
+[Node.js](http://nodejs.org/) and browser scripting, along with
+[Jade](http://jade-lang.com/) and
 [Stylus](https://learnboost.github.io/stylus/).
 
 Trying to use [Redis](http://redis.io/) and
