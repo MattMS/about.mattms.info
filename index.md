@@ -1,6 +1,6 @@
 # About Matt
 
-I do the [GitHub](https://mattms.github.com/) thing and
+I do the [GitHub](http://mattms.github.com/) thing and
 enjoy some [Twitter](https://twitter.com/MattMS) banter on occasion.
 
 You may find me lurking around the [Web Dev 42](http://web.dev42.co/)
