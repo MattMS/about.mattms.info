@@ -20,10 +20,13 @@ since 2010.
 ## And then some
 
 [Altrove](http://altrove.totesprofe.sh/) for
-[GovHack 2014](http://www.govhack.org/).
+[GovHack 2014](http://www.govhack.org/)
+as an idea of a new home page for the
+[Trove](http://trove.nla.gov.au/) site.
 
 [Trapezium](http://trapezium.io/) for
-[Node.js Knockout 2013](http://nodeknockout.com/).
+[Node.js Knockout 2013](http://nodeknockout.com/)
+to discover news based on vibe.
 
 
 ## But also
