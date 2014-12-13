@@ -1,7 +1,10 @@
 # About Matt
 
 I like to think of my life as solving issues with people, using the
-experience I am continually acquiring.
+experience I am continually gaining.
+
+This involves a lot more thinking and chatting to people than typing at
+a keyboard.
 
 
 ## Human-friendly
