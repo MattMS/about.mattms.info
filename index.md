@@ -1,6 +1,6 @@
 # About Matt
 
-I like to think of my life as solving issues with people, using the
+I like to spend my time solving creative and technical issues using the
 experience I am continually gaining.
 
 This involves a lot more thinking and chatting to people than typing at
@@ -12,7 +12,7 @@ a keyboard.
 I do the [GitHub](http://mattms.github.com/) thing and
 enjoy some [Twitter](https://twitter.com/MattMS) banter on occasion.
 
-You may find me hanging about the [Web Dev 42](http://web.dev42.co/)
+You may find me hanging around the [Web Dev 42](http://web.dev42.co/)
 gatherings.
 
 When things get serious, I always remain
