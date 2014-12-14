@@ -37,6 +37,9 @@ as an idea of a new home page for the
 [Node.js Knockout 2013](http://nodeknockout.com/)
 to discover news based on vibe.
 
+Helping with various events at
+[The Typewriter Factory](http://typewriterfactory.com/events/).
+
 
 ## But also
 
