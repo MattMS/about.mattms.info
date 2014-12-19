@@ -41,19 +41,6 @@ Helping with various events at
 [The Typewriter Factory](http://typewriterfactory.com/events/).
 
 
-## But also
-
-Recognised as a [bachelor](https://en.wikipedia.org/wiki/Bachelor_of_Computing)
-by [UTas](http://www.utas.edu.au/).
-
-Learned to code on a
-[TRS-80 Color Computer](https://en.wikipedia.org/wiki/TRS-80_Color_Computer)
-but forgot to save my programs to cassette.
-
-A bit of a [Google](https://www.google.com/intl/en/about/) and
-[PlayStation](http://au.playstation.com/) fan-boy.
-
-
 ## I have been
 
 Thinking in [Python](https://www.python.org/) since 2007.
@@ -74,3 +61,16 @@ those other popular SQL databases.
 
 Interested in [Blender](https://www.blender.org/) for scripting and
 trying to make pretty stuff.
+
+
+## But also
+
+Recognised as a [bachelor](https://en.wikipedia.org/wiki/Bachelor_of_Computing)
+by [UTas](http://www.utas.edu.au/).
+
+Learned to code on a
+[TRS-80 Color Computer](https://en.wikipedia.org/wiki/TRS-80_Color_Computer)
+but forgot to save my programs to cassette.
+
+A bit of a [Google](https://www.google.com/intl/en/about/) and
+[PlayStation](http://au.playstation.com/) fan-boy.
