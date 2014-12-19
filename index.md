@@ -1,7 +1,7 @@
 # About Matt
 
-I like to spend my time solving creative and technical issues using the
-experience I am continually gaining.
+I like to spend my time solving creative and technical issues that help
+people collaborate and share their work in interesting ways.
 
 This involves a lot more thinking and chatting to people than typing at
 a keyboard.
