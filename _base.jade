@@ -7,7 +7,9 @@ html(lang="en")
 		meta(name="description" content="GitHub page of Matt McKellar-Spence")
 		meta(name="viewport", content="width=device-width, initial-scale=1")
 		title Forged by MattMS
-		link(href="http://css.mattms.info/basic/light/main.css", rel="stylesheet")
+
+		block css
+			include ./_css.jade
 	body
 		.container
 			block content
