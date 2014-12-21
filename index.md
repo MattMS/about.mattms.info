@@ -11,6 +11,7 @@ a keyboard.
 
 I do the [GitHub](http://mattms.github.com/) thing and
 enjoy some [Twitter](https://twitter.com/MattMS) banter on occasion.
+I even [think about stuff](http://thoughts.mattms.info/) occasionally.
 
 You may find me hanging around the [Web Dev 42](http://web.dev42.co/)
 gatherings.
