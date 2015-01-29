@@ -56,6 +56,7 @@ Addicted to [CoffeeScript](http://coffeescript.org/) for
 [Stylus](https://learnboost.github.io/stylus/).
 
 Trying to use [Redis](http://redis.io/) and
+[PouchDB](http://pouchdb.com/) /
 [CouchDB](https://couchdb.apache.org/) for all my storage needs.
 But I know my way around [PostgreSQL](http://www.postgresql.org/) and
 those other popular SQL databases.
