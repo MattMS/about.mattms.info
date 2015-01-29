@@ -3,6 +3,9 @@
 I joined the
 [Australian Antarctic Data Centre](https://www1.data.antarctica.gov.au/)
 in 2010.
+Since then I have been lucky to work with different groups around the
+division, including project planning and Science Technical Support (the
+hardware wizards!).
 
 But, no, I have not got to visit Antarctica, yet.
 
