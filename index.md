@@ -22,9 +22,8 @@ When things get serious, I always remain
 
 ## Mostly
 
-Helping science people through the
-[Australian Antarctic Data Centre](https://www1.data.antarctica.gov.au/)
-since 2010.
+Helping science people at the
+[Australian Antarctic Division](./Australian_Antarctic_Division/).
 
 
 ## And then some
