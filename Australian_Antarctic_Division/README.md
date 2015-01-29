@@ -4,11 +4,12 @@ I joined the
 [Australian Antarctic Data Centre](https://www1.data.antarctica.gov.au/)
 in 2010.
 
+But, no, I have not got to visit Antarctica, yet.
+
 
 ## Interesting projects
 
-Some of the more interesting projects I have worked on while in the Data
-Centre.
+Some of the more interesting projects I have worked on.
 
 
 ### Agility + 1
@@ -22,8 +23,22 @@ understanding of the development process to stakeholders.
 
 ### Bootstrapped
 
-We started a project to update the main site navigation and it turned
-into a complete visual overhaul of the site.
+What started as a project to improve site navigation, turned into a
+complete visual overhaul of the entire site.
 
-We replaced the many different CSS styles around the site with
-[Bootstrap](http://getbootstrap.com/) (2 at the time) CSS and controls.
+We replaced many of the different structures around the site with
+[Bootstrap](http://getbootstrap.com/) CSS and controls.
+
+There is something extremely satisfying about cleaning and speeding up
+search forms to improve access to data.
+That may just be me though.
+
+
+### Ship it!
+
+I joined a project in collaboration with
+[CSIRO](https://www.cmar.csiro.au/) to provide voyage track and sensor
+data to scientists while at sea.
+
+Learning about the sensor network on the ship and being able to test the
+application at sea has definitely been one of my highlights!
