@@ -1,4 +1,4 @@
-# Matt at the Australian Antarctic Division
+# Australian Antarctic Division
 
 I joined the
 [Australian Antarctic Data Centre](https://www1.data.antarctica.gov.au/)
