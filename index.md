@@ -44,6 +44,10 @@ Helping with various events at
 ## I have been
 
 Thinking in [Python](https://www.python.org/) since 2007.
+I dabble in other languages, enough to be comfortable diving into a
+code-base and exploring how things fit together, but I have been spoilt
+with scripting.
+Google and Stack Overflow are great exploring buddies.
 
 Using [Django](https://www.djangoproject.com/) and
 [Flask](http://flask.pocoo.org/) with
