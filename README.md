@@ -77,5 +77,7 @@ Learned to code on a
 [TRS-80 Color Computer](https://en.wikipedia.org/wiki/TRS-80_Color_Computer)
 but forgot to save my programs to cassette.
 
-A bit of a [Google](https://www.google.com/intl/en/about/) and
+A bit of a
+[Blender](https://www.blender.org/),
+[Google](https://www.google.com/intl/en/about/) and
 [PlayStation](http://au.playstation.com/) fan-boy.
