@@ -3,8 +3,7 @@
 I like to spend my time solving creative and technical issues that help
 people collaborate and share their work in interesting ways.
 
-This involves a lot more thinking and chatting to people than typing at
-a keyboard.
+This involves a lot more thinking and chatting to people than typing.
 
 
 ## Human-friendly
@@ -44,28 +43,22 @@ Helping with various events at
 ## I have been
 
 Thinking in [Python](https://www.python.org/) since 2007.
-I dabble in other languages, enough to be comfortable diving into a
-code-base and exploring how things fit together, but I have been spoilt
-with scripting.
-Google and Stack Overflow are great exploring buddies.
-
-Using [Django](https://www.djangoproject.com/) and
-[Flask](http://flask.pocoo.org/) with
-[SQLAlchemy](http://www.sqlalchemy.org/) for database-driven sites.
+I like to dabble in other languages, but always have Python on hold.
 
 Addicted to [CoffeeScript](http://coffeescript.org/) for
 [Node.js](http://nodejs.org/) and browser scripting, along with
-[Jade](http://jade-lang.com/) and
-[Stylus](https://learnboost.github.io/stylus/).
+[Jade](http://jade-lang.com/) for HTML and
+[Stylus](https://learnboost.github.io/stylus/) for CSS.
 
 Trying to use [Redis](http://redis.io/) and
-[PouchDB](http://pouchdb.com/) /
-[CouchDB](https://couchdb.apache.org/) for all my storage needs.
+[CouchDB](https://couchdb.apache.org/) /
+[PouchDB](http://pouchdb.com/) for all my storage needs.
 But I know my way around [PostgreSQL](http://www.postgresql.org/) and
 those other popular SQL databases.
 
-Interested in [Blender](https://www.blender.org/) for scripting and
-trying to make pretty stuff.
+Using [Django](https://www.djangoproject.com/) and
+[Flask](http://flask.pocoo.org/) with
+[SQLAlchemy](http://www.sqlalchemy.org/) for traditional sites.
 
 
 ## But also
