@@ -16,7 +16,7 @@ You may find me hanging around the [Web Dev 42](http://web.dev42.co/)
 gatherings.
 
 When things get serious, I always remain
-[totally professional](http://totesprofe.sh/).
+[totally professional](https://github.com/totesprofesh/).
 
 
 ## Mostly
