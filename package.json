@@ -1,30 +1,29 @@
 {
-  "name": "about.mattms.info",
-  "version": "1.0.0",
-  "description": "About Matt McKellar-Spence",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "author": "Matt McKellar-Spence",
+  "bugs": {
+    "url": "https://github.com/MattMS/about.mattms.info/issues"
   },
+  "dependencies": {
+    "coffee-script": "^1.10.0",
+    "hyperscript": "^1.4.7",
+    "marked": "^0.3.5"
+  },
+  "description": "About Matt McKellar-Spence",
+  "devDependencies": {},
+  "keywords": [
+    "about"
+  ],
+  "homepage": "http://about.mattms.info",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "about.mattms.info",
   "repository": {
     "type": "git",
     "url": "https://github.com/MattMS/about.mattms.info.git"
   },
-  "keywords": [
-    "about"
-  ],
-  "author": "Matt McKellar-Spence",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/MattMS/about.mattms.info/issues"
+  "scripts": {
+    "make": "coffee main.coffee.md",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "http://about.mattms.info",
-  "devDependencies": {
-    "coffee-script": "^1.9.1",
-    "gulp": "^3.8.11",
-    "gulp-jade": "^0.9.0",
-    "jade": "^1.9.2",
-    "marked": "^0.3.3",
-    "stylus": "^0.50.0"
-  }
+  "version": "1.0.0"
 }
