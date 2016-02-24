@@ -31,7 +31,7 @@ But I know my way around [PostgreSQL](http://www.postgresql.org/) and those othe
 
 Previously used [Django](https://www.djangoproject.com/), [Wagtail](https://wagtail.io/), and [Flask](http://flask.pocoo.org/) with [SQLAlchemy](http://www.sqlalchemy.org/) on a few sites.
 
-Prefer the [Google Cloud](https://cloud.google.com/) over Amazon.
+Prefer [Google Cloud](https://cloud.google.com/) over AWS, but still [Docker](https://www.docker.com/) for all the things.
 
 Always looking for an excuse to use [Blender](https://www.blender.org/) and 3D on the web.
 
